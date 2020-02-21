@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "car",
+      "category": "market",
+      "income_or_not": "spending",
+      "date": "21.02.2020",
+      "money": 15000
+    },
+    {
+      "id": 2,
+      "name": "bread",
+      "category": "market",
+      "income_or_not": "spending",
+      "date": "22.02.2020",
+      "money": 1
+    },
+    {
+      "id": 3,
+      "name": "bread",
+      "category": "market",
+      "money": 1,
+      "income_or_not": "spending",
+      "date": "22.02.2020"
+    },
+    {
+      "id": 4,
+      "name": "bread",
+      "category": "market",
+      "money": 1,
+      "income_or_not": "spending",
+      "date": "22.02.2020"
+    },
+    {
+      "id": 5,
+      "name": "salary",
+      "category": "work",
+      "money": 10000,
+      "income_or_not": "income",
+      "date": "28.02.2020"
+    },
+    {
+      "id": 6,
+      "name": "salary",
+      "category": "work",
+      "money": 10000,
+      "income_or_not": "income",
+      "date": "28.03.2020"
+    },
+    {
+      "id": 8,
+      "name": "ufdf",
+      "category": "work",
+      "money": 10000,
+      "income_or_not": "income",
+      "date": "28.03.2020"
+    }
+  ]
+}
