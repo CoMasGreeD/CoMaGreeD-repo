@@ -5,7 +5,7 @@
       "name": "car",
       "category": "market",
       "income_or_not": "spending",
-      "date": "21.02.2020",
+      "date": "21.02",
       "money": 15000
     },
     {
@@ -13,7 +13,7 @@
       "name": "bread",
       "category": "market",
       "income_or_not": "spending",
-      "date": "22.02.2020",
+      "date": "22.02",
       "money": 1
     },
     {
@@ -22,7 +22,7 @@
       "category": "market",
       "money": 1,
       "income_or_not": "spending",
-      "date": "22.02.2020"
+      "date": "22.02"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "category": "market",
       "money": 1,
       "income_or_not": "spending",
-      "date": "22.02.2020"
+      "date": "22.02"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "category": "work",
       "money": 10000,
       "income_or_not": "income",
-      "date": "28.02.2020"
+      "date": "28.02"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "category": "work",
       "money": 10000,
       "income_or_not": "income",
-      "date": "28.03.2020"
+      "date": "28.03"
     },
     {
       "id": 8,
@@ -54,7 +54,7 @@
       "category": "work",
       "money": 10000,
       "income_or_not": "income",
-      "date": "28.03.2020"
+      "date": "28.03"
     }
   ]
 }
